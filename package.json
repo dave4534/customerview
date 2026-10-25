@@ -1,0 +1,1 @@
+{ "name": "customer-view", "private": true, "scripts": { "start": "node server.js", "reset": "rm -f data/db.json" } }
